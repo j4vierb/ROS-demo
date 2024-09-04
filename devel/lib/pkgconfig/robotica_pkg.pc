@@ -1,0 +1,8 @@
+prefix=/home/j4vierb/catkin_ws/devel
+
+Name: robotica_pkg
+Description: Description of robotica_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
