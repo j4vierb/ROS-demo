@@ -1,2 +1,0 @@
-robotica_pkg
--DCATKIN_DEVEL_PREFIX=/home/j4vierb/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/j4vierb/catkin_ws/install -G Unix Makefiles
